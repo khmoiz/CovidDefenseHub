@@ -56,5 +56,8 @@ https://www.figma.com/file/Z7OgX6h2PBLFl3dl4RCr2S/INFO31179-Mod1-Task-Covid-APp?
 Figma Protoype Link (iPhone 8+):
 https://www.figma.com/proto/Z7OgX6h2PBLFl3dl4RCr2S/INFO31179-Mod1-Task-Covid-APp?node-id=7%3A61&scaling=scale-down
 
+Demonstration Video:
+https://youtu.be/1Uh0UBWSFQ8
+
 
 
